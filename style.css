@@ -1,0 +1,10 @@
+body{
+    background-color: darkorchid;
+}
+.header{
+    font-size: 50px;
+    color: darkturquoise;
+    margin-top: 320px;
+    font-size: 100px;
+    text-align: center;
+}
